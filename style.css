@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+}
+
+body {
+  background: grey;
+}
+
+img {
+  border: 2px solid black;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.row {
+  display: flex;
+  background: grey;
+}
+
+.column {
+  flex: 50%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
